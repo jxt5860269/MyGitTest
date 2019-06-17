@@ -32,4 +32,7 @@ public class UserPO implements Serializable {
 	public String toString() {
 		return "UserPO [id=" + id + ", account=" + account + ", password=" + password + "]";
 	}
+	public static void main(String[] args) {
+		System.out.println("½Ð°Ö°Ö");
+	}
 }
