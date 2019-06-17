@@ -7,4 +7,7 @@ public class MainClass {
 	public void fun1() {
 		System.out.println("¿ªÊ¼ÅäÖÃ");
 	}
+	public void fun2() {
+		System.out.println("ÅäÖÃÖĞ");
+	}
 }
