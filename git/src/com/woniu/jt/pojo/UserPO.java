@@ -35,4 +35,7 @@ public class UserPO implements Serializable {
 	public static void main(String[] args) {
 		System.out.println("叫爸爸");
 	}
+	public void name() {
+		System.out.println("开始书写代码");
+	}
 }
